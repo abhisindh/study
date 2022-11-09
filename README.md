@@ -160,3 +160,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_04_09_N.pdf](https://github.com/abhisindh/study/blob/master/005.Sequence%20and%20Series/2022_11_04_09_N.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_05_09_A.pdf](https://github.com/abhisindh/study/blob/master/005.Sequence%20and%20Series/2022_11_05_09_A.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_05_09_N.pdf](https://github.com/abhisindh/study/blob/master/005.Sequence%20and%20Series/2022_11_05_09_N.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_08_16_A.pdf](https://github.com/abhisindh/study/blob/master/005.Sequence%20and%20Series/2022_11_08_16_A.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_08_16_N.pdf](https://github.com/abhisindh/study/blob/master/005.Sequence%20and%20Series/2022_11_08_16_N.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_09_09_A.pdf](https://github.com/abhisindh/study/blob/master/005.Sequence%20and%20Series/2022_11_09_09_A.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_09_09_N.pdf](https://github.com/abhisindh/study/blob/master/005.Sequence%20and%20Series/2022_11_09_09_N.pdf)  
