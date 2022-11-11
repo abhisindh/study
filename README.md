@@ -166,5 +166,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_09_09_N.pdf](https://github.com/abhisindh/study/blob/master/005.Sequence%20and%20Series/2022_11_09_09_N.pdf)  
 
  **006.Function of One and Several Variable**:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_10_A.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_10_A.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_10_N.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_10_N.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_10_09_A.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_10_09_A.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_10_09_N.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_10_09_N.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_11_09_A.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_11_09_A.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_11_09_N.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_11_09_N.pdf)  
