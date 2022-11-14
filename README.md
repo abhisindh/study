@@ -170,3 +170,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_10_09_N.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_10_09_N.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_11_09_A.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_11_09_A.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_11_09_N.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_11_09_N.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_12_09_A.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_12_09_A.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_12_09_N.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_12_09_N.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_14_09_A.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_14_09_A.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_14_09_N.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_14_09_N.pdf)  
