@@ -186,3 +186,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_19_09_N.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_19_09_N.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_21_09_A.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_21_09_A.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_21_09_N.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_21_09_N.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_22_09_A.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_22_09_A.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_22_09_N.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_22_09_N.pdf)  
