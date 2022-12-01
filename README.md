@@ -196,3 +196,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_26_09_N.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_26_09_N.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_28_09_A.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_28_09_A.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_11_28_09_N.pdf](https://github.com/abhisindh/study/blob/master/006.Function%20of%20One%20and%20Several%20Variable/2022_11_28_09_N.pdf)  
+
+ **007.Integral Calculus**:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_12_1_09_A.pdf](https://github.com/abhisindh/study/blob/master/007.Integral%20Calculus/2022_12_1_09_A.pdf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2022_12_1_09_N.pdf](https://github.com/abhisindh/study/blob/master/007.Integral%20Calculus/2022_12_1_09_N.pdf)  
